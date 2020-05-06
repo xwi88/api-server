@@ -14,4 +14,3 @@
 | [revel](https://github.com/revel/revel) | 11667 | 1358 | 86 | A high productivity, full-stack web framework for the Go language. | 2018-10-30 13:23:52 |
 | [httprouter](https://github.com/julienschmidt/httprouter) | 11138 | 1068 | 49 | A high performance HTTP request router that scales well | 2020-01-14 09:48:04 |
 | [martini](https://github.com/go-martini/martini) | 10933 | 1103 | 11 | ⚠️ No longer maintained ⚠️  Classy web framework for Go | 2017-01-21 21:58:54 |
-
