@@ -34,7 +34,7 @@
     - [ ] idl define
     - [ ] proto generate
 - [ ] simple rpc server & client
-- [ ] Dockerfile
+- [x] Dockerfile
 - [x] multi env support: profiles dir, default dev
 - [x] [go web framework](doc/go_framework.md)
 
