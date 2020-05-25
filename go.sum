@@ -135,6 +135,7 @@ github.com/xiang90/probing v0.0.0-20190116061207-43a291ad63a2/go.mod h1:UETIi67q
 github.com/xordataexchange/crypt v0.0.3-0.20170626215501-b2862e3d0a77/go.mod h1:aYKd//L2LvnjZzWKhF00oedf4jCCReLcmhLdhm1A27Q=
 github.com/xwi88/config4go v0.0.1 h1:Mpm0EbA9FVySr+fU0Q9QGBuqBocBeKlwU/WuiB19bXI=
 github.com/xwi88/config4go v0.0.1/go.mod h1:BwETEFjnYFPDrFIga/g/Ka9CQjm89h+gMIyFhfOeESo=
+github.com/xwi88/kit4go v0.0.1 h1:KmUN3itnsmDIzOYhJz3nkuCtpc1nWH/bWLBXQ0kLS4o=
 github.com/xwi88/kit4go v0.0.1/go.mod h1:AWY6SeUvNL7l6/TVFM4UDWxtth44MTUGlvg25QW3G2w=
 github.com/xwi88/version v1.0.0 h1:rRRJmwosjM7VYsnI0USS1dyqMZNoi9e4P/32Ae7NXQI=
 github.com/xwi88/version v1.0.0/go.mod h1:83oNKIU2gZk9YVqK2ij+Lk59+5nENsLaBjYrPZu1Qag=

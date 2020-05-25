@@ -33,6 +33,7 @@ build/bin
 # ignore the vscode temp files
 *.inp
 *.oac
+.DS_Store
 
 dist/
 *.nohup.out
